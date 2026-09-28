@@ -1,0 +1,7 @@
+.env
+.vscode/*
+vscode/*
+.history/
+history/
+log/
+node_modules/
